@@ -1,7 +1,7 @@
-def greeting(name)
+def Introduction(name)
   puts "Hi, my name is #{name}."
 end
 
-def greeting2(name, language)
+def Introduction(name, language)
   puts "Hi, my name is #{name} and I am learning to program in #{language}."
 end
